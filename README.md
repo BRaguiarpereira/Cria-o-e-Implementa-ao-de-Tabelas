@@ -1,0 +1,2 @@
+# MySql
+create table
